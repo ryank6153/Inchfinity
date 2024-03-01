@@ -1,0 +1,174 @@
+Socket Drive,SAE/Metric,Socket Type,Socket Size,Points,Shallow/Standard/Deep,Socket OD,Socket Length,Socket Size(converted to Decimal,Unit,Label(Simplified),Label(Final)
+  1/4 ,SAE,Regular,  5/32,6,Standard,0.43800,0.8750,0.1563,", 5/32, 5/32"
+  1/4 ,SAE,Regular,  3/16,6,Standard,0.43800,0.8750,0.1875,", 3/16, 3/16"
+  1/4 ,SAE,Regular,  7/32,6,Standard,0.43800,0.8750,0.2188,", 7/32, 7/32"
+  1/4 ,SAE,Regular,  1/4 ,6,Standard,0.43800,0.8750,0.2500,", 1/4 , 1/4 "
+  1/4 ,SAE,Regular,  9/32,6,Standard,0.43800,0.8750,0.2813,", 9/32, 9/32"
+  1/4 ,SAE,Regular,  5/16,6,Standard,0.46900,0.8750,0.3125,", 5/16, 5/16"
+  1/4 ,SAE,Regular, 11/32,6,Standard,0.50000,0.8750,0.3438,",11/32,11/32"
+  1/4 ,SAE,Regular,  3/8 ,6,Standard,0.54700,0.8750,0.3750,", 3/8 , 3/8 "
+  1/4 ,SAE,Regular,  7/16,6,Standard,0.62500,0.8750,0.4375,", 7/16, 7/16"
+  1/4 ,SAE,Regular,  1/2 ,6,Standard,0.68800,0.8750,0.5000,", 1/2 , 1/2 "
+  1/4 ,SAE,Regular,  9/16,6,Standard,0.73400,0.8750,0.5625,", 9/16, 9/16"
+  1/4 ,Metric,Regular,4,6,Standard,0.469,0.8750,4.0000,mm,4,4mm
+  1/4 ,Metric,Regular,5,6,Standard,0.469,0.8750,5.0000,mm,5,5mm
+  1/4 ,Metric,Regular,5.5,6,Standard,0.469,0.8750,5.5000,mm,6,5.5mm
+  1/4 ,Metric,Regular,6,6,Standard,0.469,0.8750,6.0000,mm,6,6mm
+  1/4 ,Metric,Regular,7,6,Standard,0.469,0.8750,7.0000,mm,7,7mm
+  1/4 ,Metric,Regular,8,6,Standard,0.469,0.8750,8.0000,mm,8,8mm
+  1/4 ,Metric,Regular,9,6,Standard,0.516,0.8750,9.0000,mm,9,9mm
+  1/4 ,Metric,Regular,10,6,Standard,0.578,0.8750,10.0000,mm,10,10mm
+  1/4 ,Metric,Regular,11,6,Standard,0.625,0.8750,11.0000,mm,11,11mm
+  1/4 ,Metric,Regular,12,6,Standard,0.656,0.8750,12.0000,mm,12,12mm
+  1/4 ,Metric,Regular,13,6,Standard,0.688,0.8750,13.0000,mm,13,13mm
+  1/4 ,Metric,Regular,14,6,Standard,0.75,0.8750,14.0000,mm,14,14mm
+  1/4 ,SAE,Regular,  3/16,12,Standard,0.47400,0.8750,0.1875,", 3/16, 3/16"
+  1/4 ,SAE,Regular,  7/32,12,Standard,0.47400,0.8750,0.2188,", 7/32, 7/32"
+  1/4 ,SAE,Regular,  1/4 ,12,Standard,0.47400,0.8750,0.2500,", 1/4 , 1/4 "
+  1/4 ,SAE,Regular,  9/32,12,Standard,0.47400,0.8750,0.2813,", 9/32, 9/32"
+  1/4 ,SAE,Regular,  5/16,12,Standard,0.47400,0.8750,0.3125,", 5/16, 5/16"
+  1/4 ,SAE,Regular, 11/32,12,Standard,0.51500,0.8750,0.3438,",11/32,11/32"
+  1/4 ,SAE,Regular,  3/8 ,12,Standard,0.54500,0.8750,0.3750,", 3/8 , 3/8 "
+  1/4 ,SAE,Regular,  7/16,12,Standard,0.62500,0.8750,0.4375,", 7/16, 7/16"
+  1/4 ,SAE,Regular,  1/2 ,12,Standard,0.69800,0.8750,0.5000,", 1/2 , 1/2 "
+  1/4 ,SAE,Regular,  9/16,12,Standard,0.73400,0.8750,0.5625,", 9/16, 9/16"
+  1/4 ,SAE,Regular,  3/16,6,Deep,0.469,2.0000,0.1875,", 3/16, 3/16"
+  1/4 ,SAE,Regular,  7/32,6,Deep,0.469,2.0000,0.2188,", 7/32, 7/32"
+  1/4 ,SAE,Regular,  1/4 ,6,Deep,0.469,2.0000,0.2500,", 1/4 , 1/4 "
+  1/4 ,SAE,Regular,  9/32,6,Deep,0.469,2.0000,0.2813,", 9/32, 9/32"
+  1/4 ,SAE,Regular,  5/16,6,Deep,0.469,2.0000,0.3125,", 5/16, 5/16"
+  1/4 ,SAE,Regular, 11/32,6,Deep,0.5,2.0000,0.3438,",11/32,11/32"
+  1/4 ,SAE,Regular,  3/8 ,6,Deep,0.563,2.0000,0.3750,", 3/8 , 3/8 "
+  1/4 ,SAE,Regular,  7/16,6,Deep,0.609,2.0000,0.4375,", 7/16, 7/16"
+  1/4 ,SAE,Regular,  1/2 ,6,Deep,0.688,2.0000,0.5000,", 1/2 , 1/2 "
+  1/4 ,SAE,Regular,  9/16,6,Deep,0.75,2.0000,0.5625,", 9/16, 9/16"
+  1/4 ,Metric,Regular,5,6,Deep,0.453,2.0000,5.0000,mm,5,5mm
+  1/4 ,Metric,Regular,5.5,6,Deep,0.453,2.0000,5.5000,mm,6,5.5mm
+  1/4 ,Metric,Regular,6,6,Deep,0.453,2.0000,6.0000,mm,6,6mm
+  1/4 ,Metric,Regular,7,6,Deep,0.453,2.0000,7.0000,mm,7,7mm
+  1/4 ,Metric,Regular,8,6,Deep,0.453,2.0000,8.0000,mm,8,8mm
+  1/4 ,Metric,Regular,9,6,Deep,0.5,2.0000,9.0000,mm,9,9mm
+  1/4 ,Metric,Regular,10,6,Deep,0.563,2.0000,10.0000,mm,10,10mm
+  1/4 ,Metric,Regular,11,6,Deep,0.609,2.0000,11.0000,mm,11,11mm
+  1/4 ,Metric,Regular,12,6,Deep,0.656,2.0000,12.0000,mm,12,12mm
+  1/4 ,Metric,Regular,13,6,Deep,0.688,2.0000,13.0000,mm,13,13mm
+  1/4 ,Metric,Regular,14,6,Deep,0.766,2.0000,14.0000,mm,14,14mm
+  3/8 ,SAE,Regular,  1/4 ,6,Standard,0.66700,1.1250,0.2500,", 1/4 , 1/4 "
+  3/8 ,SAE,Regular,  5/16,6,Standard,0.66700,1.1250,0.3125,", 5/16, 5/16"
+  3/8 ,SAE,Regular,  3/8 ,6,Standard,0.66700,1.1250,0.3750,", 3/8 , 3/8 "
+  3/8 ,SAE,Regular,  7/16,6,Standard,0.66700,1.1250,0.4375,", 7/16, 7/16"
+  3/8 ,SAE,Regular,  1/2 ,6,Standard,0.70300,1.1250,0.5000,", 1/2 , 1/2 "
+  3/8 ,SAE,Regular,  9/16,6,Standard,0.78500,1.1250,0.5625,", 9/16, 9/16"
+  3/8 ,SAE,Regular,  5/8 ,6,Standard,0.86000,1.1250,0.6250,", 5/8 , 5/8 "
+  3/8 ,SAE,Regular, 11/16,6,Standard,0.93500,1.1250,0.6875,",11/16,11/16"
+  3/8 ,SAE,Regular,  3/4 ,6,Standard,1.03100,1.1875,0.7500,", 3/4 , 3/4 "
+  3/8 ,SAE,Regular, 13/16,6,Standard,1.09400,1.1875,0.8125,",13/16,13/16"
+  3/8 ,SAE,Regular,  7/8 ,6,Standard,1.18800,1.3125,0.8750,", 7/8 , 7/8 "
+  3/8 ,SAE,Regular, 15/16,6,Standard,1.25000,1.3125,0.9375,",15/16,15/16"
+  3/8 ,SAE,Regular,1      ,6,Standard,1.31300,1.3750,1.0000,",1,1"
+  3/8 ,Metric,Regular,6,6,Standard,0.672,1.1250,6.0000,mm,6,6mm
+  3/8 ,Metric,Regular,7,6,Standard,0.672,1.1250,7.0000,mm,7,7mm
+  3/8 ,Metric,Regular,8,6,Standard,0.672,1.1250,8.0000,mm,8,8mm
+  3/8 ,Metric,Regular,9,6,Standard,0.672,1.1250,9.0000,mm,9,9mm
+  3/8 ,Metric,Regular,10,6,Standard,0.672,1.1250,10.0000,mm,10,10mm
+  3/8 ,Metric,Regular,11,6,Standard,0.672,1.1250,11,mm,11,11mm
+  3/8 ,Metric,Regular,12,6,Standard,0.703,1.1250,12,mm,12,12mm
+  3/8 ,Metric,Regular,13,6,Standard,0.734,1.1250,13,mm,13,13mm
+  3/8 ,Metric,Regular,14,6,Standard,0.7813,1.1250,14,mm,14,14mm
+  3/8 ,Metric,Regular,15,6,Standard,0.8438,1.1250,15,mm,15,15mm
+  3/8 ,Metric,Regular,16,6,Standard,0.8594,1.1250,16,mm,16,16mm
+  3/8 ,Metric,Regular,17,6,Standard,0.9375,1.1250,17,mm,17,17mm
+  3/8 ,Metric,Regular,18,6,Standard,0.9531,1.1875,18,mm,18,18mm
+  3/8 ,Metric,Regular,19,6,Standard,1,1.1875,19,mm,19,19mm
+  3/8 ,Metric,Regular,20,6,Standard,1.0938,1.1875,20,mm,20,20mm
+  3/8 ,Metric,Regular,21,6,Standard,1.094,1.2500,21,mm,21,21mm
+  3/8 ,Metric,Regular,22,6,Standard,1.1719,1.3125,22,mm,22,22mm
+  3/8 ,Metric,Regular,23,6,Standard,1.188,1.3130,23,mm,23,23mm
+  3/8 ,Metric,Regular,24,6,Standard,1.25,1.3130,24,mm,24,24mm
+  3/8 ,SAE,Regular,  1/4 ,12,Standard,0.67200,1.1250,0.2500,", 1/4 , 1/4 "
+  3/8 ,SAE,Regular,  5/16,12,Standard,0.67200,1.1250,0.3125,", 5/16, 5/16"
+  3/8 ,SAE,Regular,  3/8 ,12,Standard,0.67200,1.1250,0.3750,", 3/8 , 3/8 "
+  3/8 ,SAE,Regular,  7/16,12,Standard,0.67200,1.1250,0.4375,", 7/16, 7/16"
+  3/8 ,SAE,Regular,  1/2 ,12,Standard,0.73400,1.1250,0.5000,", 1/2 , 1/2 "
+  3/8 ,SAE,Regular,  9/16,12,Standard,0.81300,1.1250,0.5625,", 9/16, 9/16"
+  3/8 ,SAE,Regular,  5/8 ,12,Standard,0.87500,1.1250,0.6250,", 5/8 , 5/8 "
+  3/8 ,SAE,Regular, 11/16,12,Standard,0.95300,1.1250,0.6875,",11/16,11/16"
+  3/8 ,SAE,Regular,  3/4 ,12,Standard,1.03100,1.1875,0.7500,", 3/4 , 3/4 "
+  3/8 ,SAE,Regular, 13/16,12,Standard,1.09400,1.1875,0.8125,",13/16,13/16"
+  3/8 ,SAE,Regular,  7/8 ,12,Standard,1.18800,1.3125,0.8750,", 7/8 , 7/8 "
+  3/8 ,SAE,Regular, 15/16,12,Standard,1.25000,1.3125,0.9375,",15/16,15/16"
+  3/8 ,SAE,Regular,1      ,12,Standard,1.31300,1.3750,1.0000,",1,1"
+  3/8 ,Metric,Regular,6,12,Standard,0.672,1.1250,6.0000,mm,6,6mm
+  3/8 ,Metric,Regular,7,12,Standard,0.672,1.1250,7.0000,mm,7,7mm
+  3/8 ,Metric,Regular,8,12,Standard,0.672,1.1250,8.0000,mm,8,8mm
+  3/8 ,Metric,Regular,9,12,Standard,0.672,1.1250,9.0000,mm,9,9mm
+  3/8 ,Metric,Regular,10,12,Standard,0.672,1.1250,10,mm,10,10mm
+  3/8 ,Metric,Regular,11,12,Standard,0.672,1.1250,11,mm,11,11mm
+  3/8 ,Metric,Regular,12,12,Standard,0.703,1.1250,12,mm,12,12mm
+  3/8 ,Metric,Regular,13,12,Standard,0.734,1.1250,13,mm,13,13mm
+  3/8 ,Metric,Regular,14,12,Standard,0.781,1.1250,14,mm,14,14mm
+  3/8 ,Metric,Regular,15,12,Standard,0.844,1.1250,15,mm,15,15mm
+  3/8 ,Metric,Regular,16,12,Standard,0.859,1.1250,16,mm,16,16mm
+  3/8 ,Metric,Regular,17,12,Standard,0.938,1.1250,17,mm,17,17mm
+  3/8 ,Metric,Regular,18,12,Standard,0.953,1.1875,18,mm,18,18mm
+  3/8 ,Metric,Regular,19,12,Standard,1,1.1875,19,mm,19,19mm
+  3/8 ,Metric,Regular,20,12,Standard,1.094,1.1875,20,mm,20,20mm
+  3/8 ,Metric,Regular,21,12,Standard,1.094,1.1875,21,mm,21,21mm
+  3/8 ,Metric,Regular,22,12,Standard,1.172,1.3125,22,mm,22,22mm
+  3/8 ,Metric,Regular,23,12,Standard,1.188,1.3130,23,mm,23,23mm
+  3/8 ,Metric,Regular,24,12,Standard,1.25,1.3130,24,mm,24,24mm
+  3/8 ,Metric,Regular,8,6,Deep,0.672,1.1250,8.0000,mm,8,8mm
+  3/8 ,Metric,Regular,9,6,Deep,0.672,1.1250,9.0000,mm,9,9mm
+  3/8 ,Metric,Regular,10,6,Deep,0.672,1.1250,10,mm,10,10mm
+  3/8 ,Metric,Regular,11,6,Deep,0.672,1.1250,11,mm,11,11mm
+  3/8 ,Metric,Regular,12,6,Deep,0.703,1.1250,12,mm,12,12mm
+  3/8 ,Metric,Regular,13,6,Deep,0.734,1.1250,13,mm,13,13mm
+  3/8 ,Metric,Regular,14,6,Deep,0.781,1.1250,14,mm,14,14mm
+  3/8 ,Metric,Regular,15,6,Deep,0.844,1.1250,15,mm,15,15mm
+  3/8 ,Metric,Regular,16,6,Deep,0.859,1.1250,16,mm,16,16mm
+  3/8 ,Metric,Regular,17,6,Deep,0.938,1.1250,17,mm,17,17mm
+  3/8 ,Metric,Regular,18,6,Deep,0.953,1.1875,18,mm,18,18mm
+  3/8 ,Metric,Regular,19,6,Deep,1,1.1875,19,mm,19,19mm
+  3/8 ,SAE,Regular,  3/8 ,,Deep,0.66700,1.1100,0.3750,", 3/8 , 3/8 "
+  3/8 ,SAE,Regular,  7/16,,Deep,0.66700,1.1100,0.4375,", 7/16, 7/16"
+  3/8 ,SAE,Regular,  1/2 ,,Deep,0.70300,1.1100,0.5000,", 1/2 , 1/2 "
+  3/8 ,SAE,Regular,  9/16,,Deep,0.78500,1.1100,0.5625,", 9/16, 9/16"
+  3/8 ,SAE,Regular,  5/8 ,,Deep,0.86000,1.1100,0.6250,", 5/8 , 5/8 "
+  3/8 ,SAE,Regular, 11/16,,Deep,0.94250,2.4820,0.6875,",11/16,11/16"
+  1/2 ,SAE,Regular,  7/16,12,Standard,,,0.4375,", 7/16, 7/16"
+  1/2 ,SAE,Regular,  1/2 ,12,Standard,,,0.5000,", 1/2 , 1/2 "
+  1/2 ,SAE,Regular,  9/16,12,Standard,,,0.5625,", 9/16, 9/16"
+  1/2 ,SAE,Regular,  5/8 ,12,Standard,,,0.6250,", 5/8 , 5/8 "
+  1/2 ,SAE,Regular, 11/16,12,Standard,,,0.6875,",11/16,11/16"
+  1/2 ,SAE,Regular,  3/4 ,12,Standard,,,0.7500,", 3/4 , 3/4 "
+  1/2 ,SAE,Regular, 13/16,12,Standard,,,0.8125,",13/16,13/16"
+  1/2 ,SAE,Regular,  7/8 ,12,Standard,,,0.8750,", 7/8 , 7/8 "
+  1/2 ,SAE,Regular, 15/16,12,Standard,,,0.9375,",15/16,15/16"
+  1/2 ,Metric,Regular,11,12,Standard,,,11,mm,11,11mm
+  1/2 ,Metric,Regular,12,12,Standard,,,12,mm,12,12mm
+  1/2 ,Metric,Regular,13,12,Standard,,,13,mm,13,13mm
+  1/2 ,Metric,Regular,14,12,Standard,,,14,mm,14,14mm
+  1/2 ,Metric,Regular,15,12,Standard,,,15,mm,15,15mm
+  1/2 ,Metric,Regular,16,12,Standard,,,16,mm,16,16mm
+  1/2 ,Metric,Regular,17,12,Standard,,,17,mm,17,17mm
+  1/2 ,Metric,Regular,18,12,Standard,,,18,mm,18,18mm
+  1/2 ,Metric,Regular,19,12,Standard,,,19,mm,19,19mm
+  1/2 ,Metric,Regular,20,12,Standard,,,20,mm,20,20mm
+  1/2 ,Metric,Regular,21,12,Standard,,,21,mm,21,21mm
+  1/2 ,Metric,Regular,22,12,Standard,,,22,mm,22,22mm
+  1/2 ,Metric,Regular,23,12,Standard,,,23,mm,23,23mm
+  1/2 ,Metric,Regular,24,12,Standard,,,24,mm,24,24mm
+  1/2 ,SAE,Impact,  7/16,6,Deep,.8625,3.12,0.4375,", 7/16, 7/16"
+  1/2 ,SAE,Impact,  1/2 ,6,Deep,.8625,3.12,0.5000,", 1/2 , 1/2 "
+  1/2 ,SAE,Impact,  9/16,6,Deep,.943,3.12,0.5625,", 9/16, 9/16"
+  1/2 ,SAE,Impact,  5/8 ,6,Deep,.943,3.12,0.6250,", 5/8 , 5/8 "
+  1/2 ,SAE,Impact, 11/16,6,Deep,1.0175,3.12,0.6875,",11/16,11/16"
+  1/2 ,SAE,Impact,  3/4 ,6,Deep,1.1040,3.12,0.7500,", 3/4 , 3/4 "
+  1/2 ,SAE,Impact, 13/16,6,Deep,1.1725,3.12,0.8125,",13/16,13/16"
+  1/2 ,SAE,Impact,  7/8 ,6,Deep,1.323,3.12,0.8750,", 7/8 , 7/8 "
+  1/2 ,SAE,Impact, 15/16,6,Deep,1.337,3.12,0.9375,",15/16,15/16"
+  1/2 ,SAE,Impact,1      ,6,Deep,1.432,3.12,1.0000,",1,1"
+  1/2 ,SAE,Impact,1  1/16,6,Deep,1.50750,3.12,1.0625,",1  1/16,1  1/16"
+  1/2 ,SAE,Impact,1  1/8 ,6,Deep,1.599,3.12,1.1250,",1  1/8 ,1  1/8 "
+  1/2 ,SAE,Impact,1  1/4 ,6,Deep,1.663,3.12,1.2500,",1  1/4 ,1  1/4 "
+  1/2 ,SAE,Impact,2  1/4 ,6,Deep,1.664,3.13,2.2500,",2  1/4 ,2  1/4 "
